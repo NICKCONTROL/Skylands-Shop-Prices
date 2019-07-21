@@ -4,87 +4,87 @@
       "category":"BLOCKS",
       "material":"GRASS",
       "data":0,
-      "buy":120,
-      "sell":40
+      "buy":100,
+      "sell":30
    },
    {
       "name":"DIRT",
       "category":"BLOCKS",
       "material":"DIRT",
       "data":0,
-      "buy":60,
-      "sell":10
+      "buy":100,
+      "sell":30
    },
    {
       "name":"COARSE_DIRT",
       "category":"BLOCKS",
       "material":"DIRT",
       "data":1,
-      "buy":70,
-      "sell":8
+      "buy":100,
+      "sell":30
    },
    {
       "name":"STONE",
       "category":"BLOCKS",
       "material":"STONE",
       "data":0,
-      "buy":80,
-      "sell":10
+      "buy":130,
+      "sell":45
    },
    {
       "name":"COBBLESTONE",
       "category":"BLOCKS",
       "material":"COBBLESTONE",
       "data":0,
-      "buy":40,
-      "sell":5
+      "buy":120,
+      "sell":40
    },
    {
       "name":"DIORITE",
       "category":"BLOCKS",
       "material":"STONE",
       "data":3,
-      "buy":70,
-      "sell":8
+      "buy":110,
+      "sell":35
    },
    {
       "name":"ANDESITE",
       "category":"BLOCKS",
       "material":"STONE",
       "data":5,
-      "buy":70,
-      "sell":9
+      "buy":110,
+      "sell":35
    },
    {
       "name":"OAK_PLANK",
       "category":"BLOCKS",
       "material":"WOOD",
       "data":0,
-      "buy":125,
-      "sell":50
+      "buy":60,
+      "sell":10
    },
    {
       "name":"SPRUCE_PLANK",
       "category":"BLOCKS",
       "material":"WOOD",
       "data":1,
-      "buy":125,
-      "sell":50
+      "buy":60,
+      "sell":10
    },
    {
       "name":"BIRCH_PLANK",
       "category":"BLOCKS",
       "material":"WOOD",
       "data":2,
-      "buy":125,
-      "sell":50
+      "buy":60,
+      "sell":10
    },
    {
       "name":"JUNGLE_PLANK",
       "category":"BLOCKS",
       "material":"WOOD",
       "data":3,
-      "buy":125,
+      "buy":60,
       "sell":50
    },
    {
@@ -92,112 +92,112 @@
       "category":"BLOCKS",
       "material":"WOOD",
       "data":4,
-      "buy":125,
-      "sell":50
+      "buy":60,
+      "sell":10
    },
    {
       "name":"DARK_OAK_PLANK",
       "category":"BLOCKS",
       "material":"WOOD",
       "data":5,
-      "buy":125,
-      "sell":50
+      "buy":60,
+      "sell":10
    },
    {
       "name":"SAND",
       "category":"BLOCKS",
       "material":"SAND",
       "data":0,
-      "buy":30,
-      "sell":15
+      "buy":110,
+      "sell":35
    },
    {
       "name":"OAK_LOG",
       "category":"BLOCKS",
       "material":"LOG",
       "data":0,
-      "buy":100,
-      "sell":20
+      "buy":130,
+      "sell":40
    },
    {
       "name":"SPRUCE_LOG",
       "category":"BLOCKS",
       "material":"LOG",
       "data":1,
-      "buy":100,
-      "sell":20
+      "buy":130,
+      "sell":50
    },
    {
       "name":"BIRCH_LOG",
       "category":"BLOCKS",
       "material":"LOG",
       "data":2,
-      "buy":100,
-      "sell":20
+      "buy":130,
+      "sell":50
    },
    {
       "name":"JUNGLE_LOG",
       "category":"BLOCKS",
       "material":"LOG",
       "data":3,
-      "buy":100,
-      "sell":20
+      "buy":130,
+      "sell":50
    },
    {
       "name":"ACACIA_LOG",
       "category":"BLOCKS",
       "material":"LOG_2",
       "data":0,
-      "buy":100,
-      "sell":20
+      "buy":130,
+      "sell":50
    },
    {
       "name":"DARK_OAK_LOG",
       "category":"BLOCKS",
       "material":"LOG_2",
       "data":1,
-      "buy":100,
-      "sell":20
+      "buy":130,
+      "sell":50
    },
    {
       "name":"RED_SAND",
       "category":"BLOCKS",
       "material":"SAND",
       "data":1,
-      "buy":60,
-      "sell":25
+      "buy":110,
+      "sell":35
    },
    {
       "name":"BRICK",
       "category":"BLOCKS",
       "material":"BRICK",
       "data":0,
-      "buy":100,
-      "sell":45
+      "buy":160,
+      "sell":70
    },
    {
       "name":"WOOL",
       "category":"BLOCKS",
       "material":"WOOL",
       "data":0,
-      "buy":30,
-      "sell":10
+      "buy":100,
+      "sell":40
    },
    {
       "name":"STAINED_GLASS",
       "category":"BLOCKS",
       "material":"STAINED_GLASS",
       "data":0,
-      "buy":40,
-      "sell":20
+      "buy":130,
+      "sell":45
    },
    {
       "name":"SEA_LANTERN",
       "category":"BLOCKS",
       "material":"SEA_LANTERN",
       "data":0,
-      "buy":130,
-      "sell":55
+      "buy":160,
+      "sell":80
    },
    {
       "name":"HAY_BALE",
