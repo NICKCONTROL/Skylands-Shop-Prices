@@ -29,7 +29,7 @@
       "material":"STONE",
       "data":0,
       "buy":130,
-      "sell":45
+      "sell":65
    },
    {
       "name":"COBBLESTONE",
@@ -37,7 +37,7 @@
       "material":"COBBLESTONE",
       "data":0,
       "buy":120,
-      "sell":40
+      "sell":25
    },
    {
       "name":"DIORITE",
@@ -204,8 +204,8 @@
       "category":"BLOCKS",
       "material":"HAY_BLOCK",
       "data":0,
-      "buy":60,
-      "sell":25
+      "buy":140,
+      "sell":50
    },
    {
       "name":"STAINED_CLAY",
@@ -220,24 +220,24 @@
       "category":"DECORATIONS",
       "material":"WORKBENCH",
       "data":0,
-      "buy":20,
-      "sell":5
+      "buy":60,
+      "sell":15
    },
    {
       "name":"FURNACE",
       "category":"DECORATIONS",
       "material":"FURNACE",
       "data":0,
-      "buy":35,
-      "sell":10
+      "buy":60,
+      "sell":15
    },
    {
       "name":"CHEST",
       "category":"DECORATIONS",
       "material":"CHEST",
       "data":0,
-      "buy":15,
-      "sell":5
+      "buy":60,
+      "sell":15
    },
    {
       "name":"ETABLE",
@@ -276,56 +276,56 @@
       "category":"DECORATIONS",
       "material":"SAPLING",
       "data":0,
-      "buy":400,
-      "sell":320
+      "buy":80,
+      "sell":40
    },
    {
       "name":"SPRUCE_SAPLING",
       "category":"DECORATIONS",
       "material":"SAPLING",
       "data":1,
-      "buy":400,
-      "sell":320
+      "buy":80,
+      "sell":40
    },
    {
       "name":"BIRCH_SAPLING",
       "category":"DECORATIONS",
       "material":"SAPLING",
       "data":2,
-      "buy":400,
-      "sell":320
+      "buy":80,
+      "sell":40
    },
    {
       "name":"JUNGLE_SAPLING",
       "category":"DECORATIONS",
       "material":"SAPLING",
       "data":3,
-      "buy":400,
-      "sell":320
+      "buy":80,
+      "sell":40
    },
    {
       "name":"ACACIA_SAPLING",
       "category":"DECORATIONS",
       "material":"SAPLING",
       "data":4,
-      "buy":400,
-      "sell":320
+      "buy":80,
+      "sell":40
    },
    {
       "name":"DARK_OAK_SAPLING",
       "category":"DECORATIONS",
       "material":"SAPLING",
       "data":5,
-      "buy":400,
-      "sell":320
+      "buy":80,
+      "sell":40
    },
    {
       "name":"TALL_GRASS",
       "category":"DECORATIONS",
       "material":"LONG_GRASS",
       "data":1,
-      "buy":35,
-      "sell":10
+      "buy":80,
+      "sell":25
    },
    {
       "name":"OAK_LEAVES",
@@ -381,7 +381,7 @@
       "material":"LONG_GRASS",
       "data":2,
       "buy":20,
-      "sell":1
+      "sell":5
    },
    {
       "name":"DEADBUSH",
@@ -389,119 +389,119 @@
       "material":"DEAD_BUSH",
       "data":0,
       "buy":20,
-      "sell":1
+      "sell":5
    },
    {
       "name":"COBWEB",
       "category":"DECORATIONS",
       "material":"WEB",
       "data":0,
-      "buy":15,
-      "sell":4
+      "buy":30,
+      "sell":15
    },
    {
       "name":"YELLOW_FLOWER",
       "category":"DECORATIONS",
       "material":"YELLOW_FLOWER",
       "data":0,
-      "buy":25,
-      "sell":2
+      "buy":60,
+      "sell":20
    },
    {
       "name":"RED_ROSE",
       "category":"DECORATIONS",
       "material":"RED_ROSE",
       "data":0,
-      "buy":25,
-      "sell":2
+      "buy":60,
+      "sell":20
    },
    {
       "name":"RED_ROSE1",
       "category":"DECORATIONS",
       "material":"RED_ROSE",
       "data":1,
-      "buy":25,
-      "sell":2
+      "buy":60,
+      "sell":20
    },
    {
       "name":"RED_ROSE2",
       "category":"DECORATIONS",
       "material":"RED_ROSE",
       "data":2,
-      "buy":25,
-      "sell":2
+      "buy":60,
+      "sell":20
    },
    {
       "name":"RED_ROSE5",
       "category":"DECORATIONS",
       "material":"RED_ROSE",
       "data":5,
-      "buy":25,
-      "sell":2
+      "buy":60,
+      "sell":20
    },
    {
       "name":"BED",
       "category":"DECORATIONS",
       "material":"BED",
       "data":0,
-      "buy":10,
-      "sell":1
+      "buy":130,
+      "sell":60
    },
    {
       "name":"ITEM_FRAME",
       "category":"DECORATIONS",
       "material":"ITEM_FRAME",
       "data":0,
-      "buy":20,
-      "sell":5
+      "buy":130,
+      "sell":60
    },
    {
       "name":"FLOWER_POT",
       "category":"DECORATIONS",
       "material":"FLOWER_POT_ITEM",
       "data":0,
-      "buy":10,
-      "sell":1
+      "buy":80,
+      "sell":50
    },
    {
       "name":"PAINTING",
       "category":"DECORATIONS",
       "material":"PAINTING",
       "data":0,
-      "buy":15,
-      "sell":5
+      "buy":160,
+      "sell":80
    },
    {
       "name":"SIGN",
       "category":"DECORATIONS",
       "material":"SIGN",
       "data":0,
-      "buy":10,
-      "sell":1
+      "buy":80,
+      "sell":30
    },
    {
       "name":"ARMOUR_STAND",
       "category":"DECORATIONS",
       "material":"ARMOR_STAND",
       "data":0,
-      "buy":50,
-      "sell":15
+      "buy":160,
+      "sell":80
    },
    {
       "name":"SPRUCE_DOOR",
       "category":"DECORATIONS",
       "material":"SPRUCE_DOOR_ITEM",
       "data":0,
-      "buy":25,
-      "sell":10
+      "buy":80,
+      "sell":35
    },
    {
       "name":"APPLE",
       "category":"FOOD",
       "material":"APPLE",
       "data":0,
-      "buy":10,
-      "sell":3
+      "buy":30,
+      "sell":10
    },
    {
       "name":"GAPPLE",
@@ -509,87 +509,87 @@
       "material":"GOLDEN_APPLE",
       "data":0,
       "buy":360,
-      "sell":287
+      "sell":200
    },
    {
       "name":"BREAD",
       "category":"FOOD",
       "material":"BREAD",
       "data":0,
-      "buy":20,
-      "sell":5
+      "buy":40,
+      "sell":20
    },
    {
       "name":"PORKCHOP",
       "category":"FOOD",
       "material":"GRILLED_PORK",
       "data":0,
-      "buy":15,
-      "sell":7
+      "buy":40,
+      "sell":20
    },
    {
       "name":"CARROT",
       "category":"FOOD",
       "material":"CARROT_ITEM",
       "data":0,
-      "buy":5,
-      "sell":1
+      "buy":40,
+      "sell":20
    },
    {
       "name":"POTATO",
       "category":"FOOD",
       "material":"POTATO_ITEM",
       "data":0,
-      "buy":10,
-      "sell":3
+      "buy":40,
+      "sell":20
    },
    {
       "name":"BAKED_POTATO",
       "category":"FOOD",
       "material":"BAKED_POTATO",
       "data":0,
-      "buy":20,
-      "sell":7
+      "buy":40,
+      "sell":20
    },
    {
       "name":"PUMPKIN_PIE",
       "category":"FOOD",
       "material":"PUMPKIN_PIE",
       "data":0,
-      "buy":15,
-      "sell":5
+      "buy":40,
+      "sell":20
    },
    {
       "name":"CAKE",
       "category":"FOOD",
       "material":"CAKE",
       "data":0,
-      "buy":17,
-      "sell":9
+      "buy":45,
+      "sell":25
    },
    {
       "name":"COOKED_CHICKEN",
       "category":"FOOD",
       "material":"COOKED_CHICKEN",
       "data":0,
-      "buy":15,
-      "sell":7
+      "buy":45,
+      "sell":25
    },
    {
       "name":"RAW_FISH",
       "category":"FOOD",
       "material":"RAW_FISH",
       "data":0,
-      "buy":10,
-      "sell":3
+      "buy":40,
+      "sell":20
    },
    {
       "name":"MELON",
       "category":"FOOD",
       "material":"MELON",
       "data":0,
-      "buy":7,
-      "sell":2
+      "buy":40,
+      "sell":15
    },
    {
       "name":"STEAK",
@@ -784,7 +784,7 @@
       "sell":30
    },
    {
-      "name":"DIAMOND_SWORD",
+      "name":"DIAMOND_SWORD", #I AM ON THIS ONE (FOR FUTURE NOTICE)
       "category":"WEAPONS",
       "material":"DIAMOND_SWORD",
       "data":0,
